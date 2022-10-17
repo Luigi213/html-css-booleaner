@@ -9,7 +9,6 @@
 }
 #sfondo{
     background-color: rgba(33, 132, 231, 0.892);
-    background-image: url("pattern.png");
 }
 
 .logo{
@@ -18,8 +17,9 @@
     padding-bottom: 3px;
 }
 
-.padding-text{
+.text-font-title{
     margin-top: 10px;
+    font-size: 40px;
 }
 
 .text-grey{
@@ -38,4 +38,30 @@
 .mini-p-font{
     font-size: 10px;
     color: black;
+}
+
+.text-Highlight{
+    background-color: rgb(255, 255, 0);
+}
+
+.container{
+    margin: 25px 0 20px 0;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+} 
+
+td{
+    width: 10px;
+}
+
+.thead-color{
+    color: rgb(255, 255, 255);
+    background-color: rgb(5, 124, 216);
+}
+
+.tbody-color{
+    background-color: rgb(164, 232, 255);
 }
