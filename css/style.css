@@ -55,6 +55,10 @@
     margin: 25px 0 25px 0;
 }
 
+.padding-fixed{
+    padding-left: 20px;
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
